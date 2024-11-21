@@ -1,0 +1,68 @@
+2024-11-03 23:21:08,279 - __main__ - INFO - Running on Windows
+2024-11-03 23:21:08,316 - __main__ - INFO - Starting DMU380 simulation test
+2024-11-03 23:21:08,320 - __main__ - INFO - Generating GPS and magnetometer data
+2024-11-03 23:21:08,321 - __main__ - INFO - Loading DMU380 algorithm configuration
+2024-11-03 23:21:08,322 - __main__ - INFO - Starting simulation
+2024-11-03 23:21:16,612 - __main__ - INFO - Saving simulation results
+2024-11-03 23:21:23,507 - __main__ - INFO - Plotting image
+2024-11-03 23:21:25,609 - __main__ - INFO - Plotting simulation results
+2024-11-03 23:22:15,129 - __main__ - INFO - Running on Windows
+2024-11-03 23:22:15,183 - __main__ - INFO - Starting DMU380 simulation test
+2024-11-03 23:22:15,184 - __main__ - INFO - Generating GPS and magnetometer data
+2024-11-03 23:22:15,187 - __main__ - INFO - Loading DMU380 algorithm configuration
+2024-11-03 23:22:15,190 - __main__ - INFO - Starting simulation
+2024-11-03 23:22:24,574 - __main__ - INFO - Saving simulation results
+2024-11-03 23:32:11,428 - __main__ - INFO - Running on Windows
+2024-11-03 23:32:11,437 - __main__ - INFO - Starting DMU380 simulation test
+2024-11-03 23:32:11,449 - __main__ - INFO - Generating GPS and magnetometer data
+2024-11-03 23:32:11,450 - __main__ - INFO - Loading DMU380 algorithm configuration
+2024-11-03 23:32:11,452 - __main__ - INFO - Starting simulation
+2024-11-03 23:33:58,101 - __main__ - INFO - Running on Windows
+2024-11-03 23:33:58,102 - __main__ - INFO - Starting DMU380 simulation test
+2024-11-03 23:33:58,102 - __main__ - INFO - Generating GPS and magnetometer data
+2024-11-03 23:33:58,106 - __main__ - INFO - Loading DMU380 algorithm configuration
+2024-11-03 23:33:58,110 - __main__ - INFO - Starting simulation
+2024-11-03 23:34:05,576 - __main__ - INFO - Saving simulation results
+2024-11-03 23:34:11,695 - __main__ - INFO - Plotting image
+2024-11-03 23:34:18,827 - __main__ - INFO - Plotting simulation results
+2024-11-03 23:38:16,508 - __main__ - INFO - Running on Windows
+2024-11-03 23:38:16,508 - __main__ - INFO - Starting DMU380 simulation test
+2024-11-03 23:38:16,508 - __main__ - INFO - Generating GPS and magnetometer data
+2024-11-03 23:38:16,512 - __main__ - INFO - Loading DMU380 algorithm configuration
+2024-11-03 23:38:16,516 - __main__ - INFO - Starting simulation
+2024-11-03 23:38:23,931 - __main__ - INFO - Saving simulation results
+2024-11-03 23:38:30,081 - __main__ - INFO - Plotting image
+2024-11-03 23:38:32,283 - __main__ - INFO - Plotting simulation results
+2024-11-03 23:50:05,871 - __main__ - INFO - Running on Windows
+2024-11-03 23:50:05,872 - __main__ - INFO - Starting DMU380 simulation test
+2024-11-03 23:50:05,872 - __main__ - INFO - Generating GPS and magnetometer data
+2024-11-03 23:50:05,877 - __main__ - INFO - Loading DMU380 algorithm configuration
+2024-11-03 23:50:05,881 - __main__ - INFO - Starting simulation
+2024-11-03 23:50:13,038 - __main__ - INFO - Saving simulation results
+2024-11-03 23:50:19,447 - __main__ - INFO - Plotting image
+2024-11-03 23:50:19,447 - __main__ - INFO - Image path is valid.
+2024-11-03 23:50:22,181 - __main__ - INFO - Plotting simulation results
+2024-11-04 02:29:10,877 - __main__ - INFO - Running on Windows
+2024-11-04 02:29:10,877 - __main__ - INFO - Starting DMU380 simulation test
+2024-11-04 02:29:10,877 - __main__ - INFO - Generating GPS and magnetometer data
+2024-11-04 02:29:10,880 - __main__ - INFO - Loading DMU380 algorithm configuration
+2024-11-04 02:29:10,947 - __main__ - INFO - Starting simulation
+2024-11-04 02:29:18,173 - __main__ - INFO - Saving simulation results
+2024-11-04 02:29:25,143 - __main__ - INFO - Plotting image
+2024-11-04 02:29:48,887 - __main__ - INFO - Plotting simulation results
+2024-11-12 17:08:43,600 - __main__ - INFO - Running on Windows
+2024-11-12 17:08:43,600 - __main__ - INFO - Starting DMU380 simulation test
+2024-11-12 17:08:43,600 - __main__ - INFO - Generating GPS and magnetometer data
+2024-11-12 17:08:43,603 - __main__ - INFO - Loading DMU380 algorithm configuration
+2024-11-12 17:08:43,665 - __main__ - INFO - Starting simulation
+2024-11-12 17:08:49,376 - __main__ - INFO - Saving simulation results
+2024-11-12 17:08:53,902 - __main__ - INFO - Plotting image
+2024-11-12 17:09:18,020 - __main__ - INFO - Plotting simulation results
+2024-11-20 15:39:57,190 - __main__ - INFO - Running on Windows
+2024-11-20 15:39:57,191 - __main__ - INFO - Starting DMU380 simulation test
+2024-11-20 15:39:57,192 - __main__ - INFO - Generating GPS and magnetometer data
+2024-11-20 15:39:57,196 - __main__ - INFO - Loading DMU380 algorithm configuration
+2024-11-20 15:39:57,310 - __main__ - INFO - Starting simulation
+2024-11-20 15:40:03,906 - __main__ - INFO - Saving simulation results
+2024-11-20 15:40:10,406 - __main__ - INFO - Plotting image
+2024-11-20 15:40:17,067 - __main__ - INFO - Plotting simulation results
